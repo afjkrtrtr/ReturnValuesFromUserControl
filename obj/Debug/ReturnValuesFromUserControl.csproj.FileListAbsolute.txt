@@ -1,0 +1,12 @@
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\bin\Debug\ReturnValuesFromUserControl.exe.config
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\bin\Debug\ReturnValuesFromUserControl.exe
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\bin\Debug\ReturnValuesFromUserControl.pdb
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.csproj.AssemblyReference.cache
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.Properties.Resources.resources
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.csproj.GenerateResource.cache
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.csproj.CoreCompileInputs.cache
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.exe
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.pdb
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.UserControllogin.resources
+C:\Users\abuel\source\repos\ReturnValuesFromUserControl\ReturnValuesFromUserControl\obj\Debug\ReturnValuesFromUserControl.Form1.resources
